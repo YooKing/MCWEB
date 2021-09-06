@@ -89,6 +89,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 		label: 'QQ群',
 		href: 'https://jq.qq.com/?_wv=1027&k=551kUUF',
               },
+	      {
+	        label: 'Discord',
+		href: 'https://discord.gg/5sESZz3',
+	      },
             ],
           },
 	  {
