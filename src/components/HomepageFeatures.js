@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        下载客户端(可用纯净版)提取码:bqdh
+       <p> 下载客户端(可用纯净版)提取码:bqdh</p>
       
         <a class="button button--primary" href="https://pan.baidu.com/s/1xU7rJIekhkwQJLor5fPVQw" target="_blank">网盘</a>
 
@@ -31,7 +31,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        查看公告
+       <p> 查看公告</p>
      
         <a class="button button--primary" href="/blog/Notice" target="_blank">公告</a>
       </>
