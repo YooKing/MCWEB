@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[51],{3148:function(s){s.exports=JSON.parse('{"/MCWEB/blog/tags/\u516c\u544a":{"allTagsPath":"/MCWEB/blog/tags","slug":"/MCWEB/blog/tags/\u516c\u544a","name":"\u516c\u544a","count":1,"permalink":"/MCWEB/blog/tags/\u516c\u544a"}}')}}]);
