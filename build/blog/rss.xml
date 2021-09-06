@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>YKMC Blog</title>
+        <link>https://yooking.github.io/MCWEB/blog</link>
+        <description>YKMC Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Notice]]></title>
+            <link>https://yooking.github.io/MCWEB/blog/Notice</link>
+            <guid>Notice</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[2021/08/26公告]]></description>
+        </item>
+    </channel>
+</rss>
