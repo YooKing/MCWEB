@@ -9,6 +9,7 @@ const FeatureList = [
     description: (
       <>
         加入QQ群497912971
+        <a class="button button--primary" href="https://jq.qq.com/?_wv=1027&k=551kUUF" target="_blank">加入QQ群</a>
       </>
     ),
   },
