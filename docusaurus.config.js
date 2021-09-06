@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'YKMC',
   tagline: 'A minecraft server.',
   url: 'https://yooking.github.io/',
-  baseUrl: '/MCWEB/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
