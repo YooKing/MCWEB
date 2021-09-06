@@ -51,10 +51,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '介绍',
           },
           {to: '/blog/Notice', label: '公告', position: 'left'},
 	  {to: '/blog', label: '服务器动态', position: 'left'},
+	  {to: '/support', label: '支持', position: 'left'},
           {
             href: 'https://jq.qq.com/?_wv=1027&k=551kUUF',
             label: '加入QQ群',
@@ -79,6 +80,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 	      {
 		label: '公告',
 		to: '/blog/Notice'
+	      },
+	      {
+		label: '支持',
+		to: '/support'
 	      },
 	    ],
           },
