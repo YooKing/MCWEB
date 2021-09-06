@@ -4,16 +4,9 @@
         <title>YKMC Blog</title>
         <link>https://yooking.github.io/blog</link>
         <description>YKMC Blog</description>
-        <lastBuildDate>Mon, 06 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[支持]]></title>
-            <link>https://yooking.github.io/blog/支持</link>
-            <guid>支持</guid>
-            <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[您的捐助将用于服务器维护和升级。]]></description>
-        </item>
         <item>
             <title><![CDATA[Notice]]></title>
             <link>https://yooking.github.io/blog/Notice</link>

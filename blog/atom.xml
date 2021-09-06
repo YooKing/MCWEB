@@ -2,18 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yooking.github.io/blog</id>
     <title>YKMC Blog</title>
-    <updated>2021-09-06T00:00:00.000Z</updated>
+    <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yooking.github.io/blog"/>
     <subtitle>YKMC Blog</subtitle>
     <icon>https://yooking.github.io/img/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[支持]]></title>
-        <id>支持</id>
-        <link href="https://yooking.github.io/blog/支持"/>
-        <updated>2021-09-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[您的捐助将用于服务器维护和升级。]]></summary>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Notice]]></title>
         <id>Notice</id>
