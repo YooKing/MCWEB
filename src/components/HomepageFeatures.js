@@ -8,8 +8,9 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        加入QQ群497912971
-        <a class="button button--primary" href="https://jq.qq.com/?_wv=1027&k=551kUUF" target="_blank">加入QQ群</a>
+        加入QQ群497912971 
+      <br>
+        <a class="button button--primary" href="https://jq.qq.com/?_wv=1027&k=551kUUF" target="_blank">QQ群</a>
       </>
     ),
   },
@@ -18,7 +19,9 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        下载客户端(可用纯净版)提取码:bqdh,https://pan.baidu.com/s/1xU7rJIekhkwQJLor5fPVQw
+        下载客户端(可用纯净版)提取码:bqdh,
+      <br>
+        <a class="button button--primary" href="https://pan.baidu.com/s/1xU7rJIekhkwQJLor5fPVQw" target="_blank">网盘</a>
 
       </>
     ),
@@ -29,6 +32,8 @@ const FeatureList = [
     description: (
       <>
         查看公告
+     <br>
+        <a class="button button--primary" href="/blog/Notice" target="_blank">公告</a>
       </>
     ),
   },
