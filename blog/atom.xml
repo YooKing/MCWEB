@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yooking.github.io/blog</id>
     <title>YKMC Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-01-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yooking.github.io/blog"/>
     <subtitle>YKMC Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Notice]]></title>
         <id>Notice</id>
         <link href="https://yooking.github.io/blog/Notice"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2021/08/26公告]]></summary>
+        <updated>2022-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022/01/08公告]]></summary>
     </entry>
 </feed>
