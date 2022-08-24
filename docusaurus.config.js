@@ -82,7 +82,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 		to: '/blog/Notice'
 	      },
 	      {
-		label: '支持',
+		label: '捐助',
 		to: '/support'
 	      },
 	    ],
